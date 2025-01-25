@@ -1,0 +1,23 @@
+[
+  {"id": 1,
+    "name": "Thormes Filgueira",
+    "username": "thormes",
+    "email": "thormes@example.com",
+    "password": "safe_password",
+    "roles": ["admin", "user"]
+  },
+  {"id": 2,
+    "name": "John Lennon",
+    "username": "jlennon",
+    "email": "lennon@example.com",
+    "password": "not_safe_password",
+    "roles": ["user"]
+  },
+  {"id": 3,
+    "name": "Thom Yorke",
+    "username": "tyorke",
+    "email": "yorke@example.com",
+    "password": "also_not_safe_password",
+    "roles": ["user"]
+  }
+]
